@@ -1,0 +1,2 @@
+# BenikazuraTransitionPackA
+汎用的な場面切り替えプラグインを収録したプラグイン10種セットです。
